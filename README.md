@@ -1,3 +1,6 @@
+Still Updating havent been fully completed
+
+
 # Naran121x — Personal Website
 
 The personal website of **Narayan Pathak**, known online as **Naran121x**.
